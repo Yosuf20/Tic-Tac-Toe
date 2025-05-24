@@ -1,0 +1,1 @@
+nine = 'X' if xstate[9] else ('O' if zstate[9] else 9)
